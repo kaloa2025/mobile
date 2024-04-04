@@ -1,0 +1,42 @@
+{
+  
+  "Smartphones": [
+    {
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "url": "https://www.apple.com/iphone-13/",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/1ed5895d-b2c4-4056-a482-41b1a7e45f5221170555.jpg"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s21-ultra-5g/",
+      "image": "https://unboxyourmobile.com/image/cache/catalog/gogole/S21%20ULTRA%205G-1000x1000.jpg"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "url": "https://store.google.com/us/product/pixel_6_pro",
+      "image": "https://m.media-amazon.com/images/I/71FpXTBHDnL._SX679_.jpg"
+    }
+  ,
+    {
+      "brand": "Dell",
+      "model": "XPS 13",
+      "url": "https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps-13-9310-laptop",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9320/media-gallery/xs9320t-cnb-00005ff090-sl-oled.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=628&qlt=100,1&resMode=sharp2&size=628,402&chrss=full"
+    },
+    {
+      "brand": "Apple",
+      "model": "MacBook Pro 14",
+      "url": "https://www.apple.com/macbook-pro-14/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qxXrUDLZ3JDe9It4NxuVGVL4eUgYt4h0DV8cU_PMXw&s"
+    },
+    {
+      "brand": "Microsoft",
+      "model": "Surface Laptop 4",
+      "url": "https://www.microsoft.com/en-us/d/surface-laptop-4/93693d81xjzs?activetab=pivot%3aoverviewtab",
+      "image": "https://m.media-amazon.com/images/I/41sT-ej9Q-L._SX300_SY300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
