@@ -1,5 +1,6 @@
 {
-"mobiles":[
+
+    "mobiles": [
     {
       "brand": "Samsung",
       "model": "Galaxy S21 Ultra",
@@ -11,8 +12,7 @@
       "model": "Pixel 6 Pro",
       "url": "https://store.google.com/us/product/pixel_6_pro",
       "image": "https://m.media-amazon.com/images/I/71FpXTBHDnL._SX679_.jpg"
-    }
-  ,
+    },
     {
       "brand": "Apple",
       "model": "iPhone 12",
