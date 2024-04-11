@@ -1,6 +1,4 @@
-{
-  
-  "Smartphones": [
+[
     {
       "brand": "Samsung",
       "model": "Galaxy S21 Ultra",
@@ -20,5 +18,4 @@
       "url": "https://www.apple.com/iphone-13/",
       "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/1ed5895d-b2c4-4056-a482-41b1a7e45f5221170555.jpg"
     }
-  ]
-}
+]
